@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 show branch commit info.
 hi
 merge info haha.
+push dev
